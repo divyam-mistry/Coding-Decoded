@@ -4,8 +4,8 @@ These questions are intended for those who are preparing for Google.
 
 | S No  | Question  |  Link | Status | Concept |
 | ------------- | :--------------------: |    :-----------: |  :-----------: |  :-------------: |
-| 1 |	---Magic Squares In Grid---	| [Link](	https://leetcode.com/problems/magic-squares-in-grid	) | PENDING | 	Array 
-| 2 |	Longest Line of Consecutive One in Matrix	| [Link](	https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix	) | PENDING | 	Array 
+| 1 |	Magic Squares In Grid	| [Link](	https://leetcode.com/problems/magic-squares-in-grid	) | DONE | 	Array 
+| 2 |	Longest Line of Consecutive One in Matrix	| [Link](	https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix	) | PREMIUM | 	Array 
 | 3 |	RLE Iterator	| [Link](	https://leetcode.com/problems/rle-iterator	) | PENDING | 	Array
 | 4 |	Snapshot Array	| [Link](	https://leetcode.com/problems/snapshot-array	) | PENDING | 	Array
 | 5 |	Maximum Sum of Two Non-Overlapping Subarrays	| [Link](	https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays	) | PENDING | 	Array
