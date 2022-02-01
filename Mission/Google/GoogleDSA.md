@@ -6,8 +6,8 @@ These questions are intended for those who are preparing for Google.
 | ------------- | :--------------------: |    :-----------: |  :-----------: |  :-------------: |
 | 1 |	Magic Squares In Grid	| [Link](	https://leetcode.com/problems/magic-squares-in-grid	) | DONE | 	Array 
 | 2 |	Longest Line of Consecutive One in Matrix	| [Link](	https://leetcode.com/problems/longest-line-of-consecutive-one-in-matrix	) | PREMIUM | 	Array 
-| 3 |	RLE Iterator	| [Link](	https://leetcode.com/problems/rle-iterator	) | PENDING | 	Array
-| 4 |	Snapshot Array	| [Link](	https://leetcode.com/problems/snapshot-array	) | PENDING | 	Array
+| 3 |	RLE Iterator	| [Link](	https://leetcode.com/problems/rle-iterator	) | DONE | 	Array
+| 4 |	Snapshot Array	| [Link](	https://leetcode.com/problems/snapshot-array	) | DONE | 	Array
 | 5 |	Maximum Sum of Two Non-Overlapping Subarrays	| [Link](	https://leetcode.com/problems/maximum-sum-of-two-non-overlapping-subarrays	) | PENDING | 	Array
 | 6 |	My Calendar I	| [Link](	https://leetcode.com/problems/my-calendar-i	) | PENDING | 	Array
 | 7 |	Number of Matching Subsequences	| [Link](	https://leetcode.com/problems/number-of-matching-subsequences	) | PENDING | 	Array
